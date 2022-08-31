@@ -1,0 +1,23 @@
+{
+  "name": "origin",
+  "version": "1.0.0",
+  "description": "Port-Folio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Der/Origin.git"
+  },
+  "author": "The-Babys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Der/Origin/issues"
+  },
+  "homepage": "https://github.com/The-Der/Origin#readme",
+  "dependencies": {
+    "eins-modal": "^2.2.2",
+    "normalize.css": "^8.0.1"
+  }
+}
